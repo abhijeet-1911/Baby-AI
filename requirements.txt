@@ -1,0 +1,9 @@
+SpeechRecognition
+PyAudio
+requests
+pywhatkit
+psutil
+pyautogui
+dotenv
+openai
+winshell
